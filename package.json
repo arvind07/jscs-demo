@@ -1,0 +1,16 @@
+{
+  "name": "jscs-test",
+  "version": "0.1.0",
+  "description": "Test JSCS demo",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jscs": "^0.8.1",
+    "jscs": "^1.7.3"
+  }
+}
