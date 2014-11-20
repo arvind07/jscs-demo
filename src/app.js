@@ -1,3 +1,4 @@
+// A demo javascript file
 var myApp, MyRouter;
 
 requirejs.config({
